@@ -1,0 +1,11 @@
+dgl==1.1.2
+networkx==3.4.2
+numpy==1.25.1
+pandas==2.2.3
+pillow==11.0.0
+pytz==2025.2
+rdkit-pypi==2022.3.5
+scikit-learn==1.6.1
+torch==2.0.0
+torchaudio==2.0.1
+torchvision==0.15.1
